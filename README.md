@@ -1,25 +1,5 @@
 ![](https://s3.amazonaws.com/videos.pentesteracademy.com/videos/badges/low/arm-assembly.png)
 
-Borrar y modificar a su gusto este README, pero antes utilizar estas condiciones de entrega del trabajo.
-
-# Utilizar los dos directorios
-
-- code  - ahi depositar sus programas los ***archivos extensión *.s****  (Source File) algunos autores en x86 de ponen .asm y en otras plataformas ARM compatibles la extension *.elf
-- Todo programa lleva su comentario en la parte de arriba, objetivo y nombre del programador minimo.
-- images  - de haber algo de pantallas ahi se presentaran, su busca documentarlas en MARKDOWN el código es:
-
-``` ![](images/---archivo.jpg---) recordar que no lleva espacios```
-
-
-
-- Programa en MarkDown es inicia con tres tildes * (`) sin espacio, seguido de el lenguaje de programacion, al final del codigo se poner otra vez los mismos tilder..
-
-No se usan espacios en nombres de archivos, usar los nombres estilo camelCase (primera palabra minusculas, mayuscula solo la 1ra letra de cada palabra subsecuente):  ejemplo: sensorHumo, etc.
-
-Suerte.
-
-Att. ![](https://img.icons8.com/color/2x/docker.png)
-
 ------
 
 <pre>
@@ -57,22 +37,6 @@ Gutierrez Vizcarra Daniel 19210503
 <pre>
 
 	<p align=left>
-
-Repositorio en el cual se desarrollaron distintos ejercicios en el lenguaje de 
-programacion c++, tomados del libro "Problemas para resolver con computadora" 
-1ra edicion (1985), por el autor Donald D. Spencer. 
-
-Los ejercicios corresponden al capitulo 6 del libro, entre las paginas 77 a 86.
-Se realizaron 25 problemas debido a la entrega fuera del limite de tiempo.
-
-CONDICIONES:
-
-	EXTEMPORÁNEOS DE LA FECHA DE ENTREGA, despues del 25 de marzo y 1 segundo:
-
-	-Solo 25 problemas a resolver y están en aleatorio las condiciones de uso, 
-		algunos simples otros de recordar, etc. CAPITULO 6 en adelante.
-
-	-Agregar las indicaciones de los criterios de la rùbrica
 	
 RÚBRICA:
 
@@ -111,12 +75,6 @@ RÚBRICA:
 		resueltos, los archivos NO tener su extensión .CPP y  puede o no estar 
 		acomodados en dentro de un directorio (sin acentos o simbolos) 
 		SOLO FUENTES, y modifica el README.md que sea una portada.
-
-ENTREGA:
-
-	URL del GitHub Classroom, y recuerde arreglar la PORTADA, quitar todos los 
-		elementos extras del templete, acomodarlo bien para su presentación 
-		solo lo necesario.
 
 	</p>
 
