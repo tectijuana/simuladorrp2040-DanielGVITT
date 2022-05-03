@@ -36,19 +36,19 @@ Semestre:
 Febrero - Junio 2022
 
 Materia:
-Lenguajes de interfaz
+Sistemas Programables
 
 Docente:
 M.C. Rene Solis Reyes 
 
-Unidad:
-1
+Unidad: 
+III
 
-Título del trabajo:
-Ejercicios ......
+Título del trabajo: Simulador Pi Pico
+Ejercicios 1-25
 
 Estudiante:
-.......
+Gutierrez Vizcarra Daniel 19210503
 
 	</p>
 
