@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que prende el photoresistor.  
+
 from machine import ADC, Pin
 from time import sleep
 
