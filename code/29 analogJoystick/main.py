@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que detecta un joystick.  
+
 from machine import Pin, ADC
 import utime
 
