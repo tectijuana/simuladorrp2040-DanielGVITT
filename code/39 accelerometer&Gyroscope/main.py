@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que prende un acelerometro/giroscopio.  
+
 from imu import MPU6050
 from time import sleep
 from machine import Pin, I2C
