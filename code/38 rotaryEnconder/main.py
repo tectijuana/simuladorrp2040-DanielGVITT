@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que prende un sensor rotacional.  
+
 from rotary import Rotary
 import utime as time
 
