@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que prende una reloj.  
+
 from machine import Pin
 import utime
 
