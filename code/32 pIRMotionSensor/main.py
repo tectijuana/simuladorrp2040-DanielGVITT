@@ -1,3 +1,6 @@
+# Alumno: Gutierrez Vizcarra Daniel 19210503
+# Circuito que da utilidad a un sensor de movimiento (PIR).  
+
 from machine import Pin
 from time import sleep
 
